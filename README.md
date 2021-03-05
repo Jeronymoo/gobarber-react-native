@@ -28,7 +28,7 @@
 
 GoBarber é uma plataforma em que clientes podem marcar horários com seu cabeleireiro de escolha. Ambos podem fazer seu cadastro na plataforma e por meio do <a href="#">dashboard</a> os cabeleireiros podem visualizar a sua agenda e seus clientes com horário marcado.
 
-## Instalação
+## Instalação e Uso
 
 Clone o repositório e faça a instalação dos pacotes do projeto
 ```
