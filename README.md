@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -14,23 +15,32 @@
   <img alt="Proffy" src=".github/proffy.png" width="100%">
 </p> -->
 
-## 🚀 Tecnologias
+## Tecnologias
 
 - [React Native](https://reactnative.dev/)
 - [Styled Components](https://styled-components.com/)
 - [Axios](https://github.com/axios/axios)
 - [Yup](https://github.com/jquense/yup)
 - [Date-fns](https://date-fns.org/)
-- [unform](https://unform.dev/)
+- [Unform](https://unform.dev/)
 
-## 💻 Projeto
+## Projeto
 
 GoBarber é uma plataforma em que clientes podem marcar horários com seu cabeleireiro de escolha. Ambos podem fazer seu cadastro na plataforma e por meio do <a href="#">dashboard</a> os cabeleireiros podem visualizar a sua agenda e seus clientes com horário marcado.
 
-## 🔖 Layout
+## Instalação
 
-TODO
+Clone o repositório e faça a instalação dos pacotes do projeto
+```
+$ git clone https://github.com/Jeronymoo/gobarber-react-native.git
+$ cd gobarber-react-native
+$ yarn
+```
+Com o <a href=https://developer.android.com/studio>android studio</a> instalado, configurado e com o <a href=#>back-end</a> rodando inicie o projeto
+```
+$ yarn android
+```
 
-## :memo: Licença
+## Licença
 
 Esse projeto está sob a licença MIT.
