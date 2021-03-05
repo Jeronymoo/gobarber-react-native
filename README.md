@@ -16,11 +16,16 @@
 
 ## 🚀 Tecnologias
 
-TODO
+- [React Native](https://reactnative.dev/)
+- [Styled Components](https://styled-components.com/)
+- [Axios](https://github.com/axios/axios)
+- [Yup](https://github.com/jquense/yup)
+- [Date-fns](https://date-fns.org/)
+- [unform](https://unform.dev/)
 
 ## 💻 Projeto
 
-TODO
+GoBarber é uma plataforma em que clientes podem marcar horários com seu cabeleireiro de escolha. Ambos podem fazer seu cadastro na plataforma e por meio do <a href="#">dashboard</a> os cabeleireiros podem visualizar a sua agenda e seus clientes com horário marcado.
 
 ## 🔖 Layout
 
